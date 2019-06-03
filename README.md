@@ -7,6 +7,8 @@ It also checks for a valid zipcode and displays an alert when the zip is invalid
 
 This application has been deployed to Google's Firebase at <https://zipfinder-73c6c.firebaseapp.com>.
 
+Thanks to Traversy Media for the code-along. This was fun!
+
 ## Project setup
 ```
 npm install
