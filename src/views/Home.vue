@@ -34,7 +34,7 @@ export default {
         this.showAlert();
       }
       this.info = await res.json();
-      console.log(this.info);
+      // console.log(this.info);
     },
     clearInfo() {
       this.info = null;
